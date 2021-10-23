@@ -1,0 +1,14 @@
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\bin\Debug\netcoreapp3.1\ManageEnterprises.Application.deps.json
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\bin\Debug\netcoreapp3.1\ManageEnterprises.Application.dll
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\obj\Debug\netcoreapp3.1\ManageEnterprises.Application.csprojAssemblyReference.cache
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\obj\Debug\netcoreapp3.1\ManageEnterprises.Application.AssemblyInfoInputs.cache
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\obj\Debug\netcoreapp3.1\ManageEnterprises.Application.AssemblyInfo.cs
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\bin\Debug\netcoreapp3.1\ManageEnterprises.Domain.dll
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\bin\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.dll
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\bin\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.pdb
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\bin\Debug\netcoreapp3.1\ManageEnterprises.Domain.pdb
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\obj\Debug\netcoreapp3.1\ManageEnterprises.Application.csproj.CopyComplete
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\bin\Debug\netcoreapp3.1\ManageEnterprises.Application.pdb
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\obj\Debug\netcoreapp3.1\ManageEnterprises.Application.dll
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\obj\Debug\netcoreapp3.1\ManageEnterprises.Application.pdb
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Application\obj\Debug\netcoreapp3.1\ManageEnterprises.Application.csproj.CoreCompileInputs.cache

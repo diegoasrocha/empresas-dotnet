@@ -1,0 +1,15 @@
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\bin\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.deps.json
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\bin\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.dll
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\obj\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.AssemblyInfoInputs.cache
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\obj\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.AssemblyInfo.cs
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\obj\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.csprojAssemblyReference.cache
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\bin\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.runtimeconfig.json
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\bin\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.runtimeconfig.dev.json
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\bin\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.pdb
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\bin\Debug\netcoreapp3.1\ManageEnterprises.Domain.dll
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\bin\Debug\netcoreapp3.1\ManageEnterprises.Domain.pdb
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\obj\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\obj\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.csproj.CopyComplete
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\obj\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.dll
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\obj\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.pdb
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Infrastructure\obj\Debug\netcoreapp3.1\ManageEnterprises.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Domain\bin\Debug\netcoreapp3.1\ManageEnterprises.Domain.deps.json
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Domain\bin\Debug\netcoreapp3.1\ManageEnterprises.Domain.dll
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Domain\bin\Debug\netcoreapp3.1\ManageEnterprises.Domain.pdb
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Domain\obj\Debug\netcoreapp3.1\ManageEnterprises.Domain.AssemblyInfoInputs.cache
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Domain\obj\Debug\netcoreapp3.1\ManageEnterprises.Domain.AssemblyInfo.cs
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Domain\obj\Debug\netcoreapp3.1\ManageEnterprises.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Domain\obj\Debug\netcoreapp3.1\ManageEnterprises.Domain.dll
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Domain\obj\Debug\netcoreapp3.1\ManageEnterprises.Domain.pdb
+D:\Projetos\ioasys-desafio\empresas-dotnet\src\ManageEnterprises\ManageEnterprises.Domain\obj\Debug\netcoreapp3.1\ManageEnterprises.Domain.csprojAssemblyReference.cache
